@@ -31,8 +31,9 @@
 | Premium Standard รุ่นใหม่ | Apple Watch Series 10 | Galaxy Watch8 | Huawei Watch GT 5 |
 | Premium Sport | Apple Watch Ultra 2 | Galaxy Watch Ultra | Huawei Watch Ultimate |
 
+<br>
 
-ตาราง: เปรียบเทียบคุณสมบัติหลัก 9 รุ่น
+## ตาราง: เปรียบเทียบคุณสมบัติหลัก 9 รุ่น
 | รุ่น | วัสดุ/กระจก | สุขภาพหลัก | กันน้ำ | แบตเตอรี่ | โทร/NFC/LTE |
 |---|---|---|---|---|---|
 | Apple Watch Series 9 | Aluminum + Ion-X / SS + Sapphire | หัวใจ, ECG, SpO2, Sleep Apnea, GPS (L1) | 5ATM / IP6X | 18 ชม. | โทรได้ / NFC / LTE |
@@ -47,8 +48,9 @@
  
 หมายเหตุ: SS = Stainless Steel, BT Call = โทรผ่าน Bluetooth (ต้องเชื่อมต่อโทรศัพท์), "–" = ไม่มีโมเดล LTE
  
+<br>
 
-เปรียบเทียบคุณภาพสมาร์ทวอทช์ 9 รุ่น — สรุปย่อ 
+## เปรียบเทียบคุณภาพสมาร์ทวอทช์ 9 รุ่น — สรุปย่อ 
 
 วันที่ค้นข้อมูล: 3 ตุลาคม 2026 
 
