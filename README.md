@@ -41,8 +41,6 @@
 | 4 | Shopee | Samsung Galaxy Watch8 40mm Bluetooth | Samsung | 12900 | 4.8 |
 | 5 | Shopee | Huawei Watch GT 5 46mm | Huawei | 9990 | 4.9 |
 
-<br>
-
 ## ตาราง: เปรียบเทียบคุณสมบัติหลัก 9 รุ่น
 | รุ่น | วัสดุ/กระจก | สุขภาพหลัก | กันน้ำ | แบตเตอรี่ | โทร/NFC/LTE |
 |---|---|---|---|---|---|
