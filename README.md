@@ -31,6 +31,16 @@
 | Premium Standard รุ่นใหม่ | Apple Watch Series 10 | Galaxy Watch8 | Huawei Watch GT 5 |
 | Premium Sport | Apple Watch Ultra 2 | Galaxy Watch Ultra | Huawei Watch Ultimate |
 
+### Table Samples
+
+| item_id | platform | product_name | brand | price | rating_score |
+|---|---|---|---|---:|---:|
+| 1 | Shopee | Apple Watch Series 9 GPS 41mm | Apple | 15900 | 4.9 |
+| 2 | Shopee | Apple Watch Series 10 GPS 42mm | Apple | 14900 | 4.8 |
+| 3 | Shopee | Samsung Galaxy Watch7 40mm Bluetooth | Samsung | 9900 | 4.9 |
+| 4 | Shopee | Samsung Galaxy Watch8 40mm Bluetooth | Samsung | 12900 | 4.8 |
+| 5 | Shopee | Huawei Watch GT 5 46mm | Huawei | 9990 | 4.9 |
+
 <br>
 
 ## ตาราง: เปรียบเทียบคุณสมบัติหลัก 9 รุ่น
