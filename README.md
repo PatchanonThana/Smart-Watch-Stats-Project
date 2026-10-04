@@ -17,7 +17,7 @@
 
 - `product_name`
 - `price`
-- `rating`
+- `rating_score`
 
 เก็บข้อมูลสูงสุด 5 หน้าในแต่ละ platform
 
